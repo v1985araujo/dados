@@ -1,0 +1,163 @@
+_id,co_uf,no_uf,ano,variavel,pop_categoria,pop_subcategoria,valor
+1,11.0,Rondônia,1970,População residente censitária,Total,Total,111064
+2,11.0,Rondônia,1980,População residente censitária,Total,Total,491025
+3,11.0,Rondônia,1991,População residente censitária,Total,Total,1132692
+4,11.0,Rondônia,2000,População residente censitária,Total,Total,1379787
+5,11.0,Rondônia,2010,População residente censitária,Total,Total,1562409
+6,11.0,Rondônia,2022,População residente censitária,Total,Total,1581016
+7,12.0,Acre,1970,População residente censitária,Total,Total,215299
+8,12.0,Acre,1980,População residente censitária,Total,Total,301276
+9,12.0,Acre,1991,População residente censitária,Total,Total,417718
+10,12.0,Acre,2000,População residente censitária,Total,Total,557526
+11,12.0,Acre,2010,População residente censitária,Total,Total,733559
+12,12.0,Acre,2022,População residente censitária,Total,Total,830026
+13,13.0,Amazonas,1970,População residente censitária,Total,Total,955203
+14,13.0,Amazonas,1980,População residente censitária,Total,Total,1430528
+15,13.0,Amazonas,1991,População residente censitária,Total,Total,2103243
+16,13.0,Amazonas,2000,População residente censitária,Total,Total,2812557
+17,13.0,Amazonas,2010,População residente censitária,Total,Total,3483985
+18,13.0,Amazonas,2022,População residente censitária,Total,Total,3941175
+19,14.0,Roraima,1970,População residente censitária,Total,Total,40885
+20,14.0,Roraima,1980,População residente censitária,Total,Total,79121
+21,14.0,Roraima,1991,População residente censitária,Total,Total,217583
+22,14.0,Roraima,2000,População residente censitária,Total,Total,324397
+23,14.0,Roraima,2010,População residente censitária,Total,Total,450479
+24,14.0,Roraima,2022,População residente censitária,Total,Total,636303
+25,15.0,Pará,1970,População residente censitária,Total,Total,2166998
+26,15.0,Pará,1980,População residente censitária,Total,Total,3403498
+27,15.0,Pará,1991,População residente censitária,Total,Total,4950060
+28,15.0,Pará,2000,População residente censitária,Total,Total,6192307
+29,15.0,Pará,2010,População residente censitária,Total,Total,7581051
+30,15.0,Pará,2022,População residente censitária,Total,Total,8116132
+31,16.0,Amapá,1970,População residente censitária,Total,Total,114230
+32,16.0,Amapá,1980,População residente censitária,Total,Total,175258
+33,16.0,Amapá,1991,População residente censitária,Total,Total,289397
+34,16.0,Amapá,2000,População residente censitária,Total,Total,477032
+35,16.0,Amapá,2010,População residente censitária,Total,Total,669526
+36,16.0,Amapá,2022,População residente censitária,Total,Total,733508
+37,17.0,Tocantins,1970,População residente censitária,Total,Total,...
+38,17.0,Tocantins,1980,População residente censitária,Total,Total,...
+39,17.0,Tocantins,1991,População residente censitária,Total,Total,919863
+40,17.0,Tocantins,2000,População residente censitária,Total,Total,1157098
+41,17.0,Tocantins,2010,População residente censitária,Total,Total,1383445
+42,17.0,Tocantins,2022,População residente censitária,Total,Total,1511459
+43,21.0,Maranhão,1970,População residente censitária,Total,Total,2992678
+44,21.0,Maranhão,1980,População residente censitária,Total,Total,3996444
+45,21.0,Maranhão,1991,População residente censitária,Total,Total,4930253
+46,21.0,Maranhão,2000,População residente censitária,Total,Total,5651475
+47,21.0,Maranhão,2010,População residente censitária,Total,Total,6574789
+48,21.0,Maranhão,2022,População residente censitária,Total,Total,6775152
+49,22.0,Piauí,1970,População residente censitária,Total,Total,1680573
+50,22.0,Piauí,1980,População residente censitária,Total,Total,2139196
+51,22.0,Piauí,1991,População residente censitária,Total,Total,2582137
+52,22.0,Piauí,2000,População residente censitária,Total,Total,2843278
+53,22.0,Piauí,2010,População residente censitária,Total,Total,3118360
+54,22.0,Piauí,2022,População residente censitária,Total,Total,3269200
+55,23.0,Ceará,1970,População residente censitária,Total,Total,4361603
+56,23.0,Ceará,1980,População residente censitária,Total,Total,5288429
+57,23.0,Ceará,1991,População residente censitária,Total,Total,6366647
+58,23.0,Ceará,2000,População residente censitária,Total,Total,7430661
+59,23.0,Ceará,2010,População residente censitária,Total,Total,8452381
+60,23.0,Ceará,2022,População residente censitária,Total,Total,8791688
+61,24.0,Rio Grande do Norte,1970,População residente censitária,Total,Total,1550184
+62,24.0,Rio Grande do Norte,1980,População residente censitária,Total,Total,1898835
+63,24.0,Rio Grande do Norte,1991,População residente censitária,Total,Total,2415567
+64,24.0,Rio Grande do Norte,2000,População residente censitária,Total,Total,2776782
+65,24.0,Rio Grande do Norte,2010,População residente censitária,Total,Total,3168027
+66,24.0,Rio Grande do Norte,2022,População residente censitária,Total,Total,3302406
+67,25.0,Paraíba,1970,População residente censitária,Total,Total,2382463
+68,25.0,Paraíba,1980,População residente censitária,Total,Total,2770346
+69,25.0,Paraíba,1991,População residente censitária,Total,Total,3201114
+70,25.0,Paraíba,2000,População residente censitária,Total,Total,3443825
+71,25.0,Paraíba,2010,População residente censitária,Total,Total,3766528
+72,25.0,Paraíba,2022,População residente censitária,Total,Total,3974495
+73,26.0,Pernambuco,1970,População residente censitária,Total,Total,5160625
+74,26.0,Pernambuco,1980,População residente censitária,Total,Total,6142229
+75,26.0,Pernambuco,1991,População residente censitária,Total,Total,7127855
+76,26.0,Pernambuco,2000,População residente censitária,Total,Total,7918344
+77,26.0,Pernambuco,2010,População residente censitária,Total,Total,8796448
+78,26.0,Pernambuco,2022,População residente censitária,Total,Total,9058155
+79,27.0,Alagoas,1970,População residente censitária,Total,Total,1588068
+80,27.0,Alagoas,1980,População residente censitária,Total,Total,1982915
+81,27.0,Alagoas,1991,População residente censitária,Total,Total,2514100
+82,27.0,Alagoas,2000,População residente censitária,Total,Total,2822621
+83,27.0,Alagoas,2010,População residente censitária,Total,Total,3120494
+84,27.0,Alagoas,2022,População residente censitária,Total,Total,3127511
+85,28.0,Sergipe,1970,População residente censitária,Total,Total,900679
+86,28.0,Sergipe,1980,População residente censitária,Total,Total,1140379
+87,28.0,Sergipe,1991,População residente censitária,Total,Total,1491876
+88,28.0,Sergipe,2000,População residente censitária,Total,Total,1784475
+89,28.0,Sergipe,2010,População residente censitária,Total,Total,2068017
+90,28.0,Sergipe,2022,População residente censitária,Total,Total,2209558
+91,29.0,Bahia,1970,População residente censitária,Total,Total,7493437
+92,29.0,Bahia,1980,População residente censitária,Total,Total,9455392
+93,29.0,Bahia,1991,População residente censitária,Total,Total,11867991
+94,29.0,Bahia,2000,População residente censitária,Total,Total,13070250
+95,29.0,Bahia,2010,População residente censitária,Total,Total,14016906
+96,29.0,Bahia,2022,População residente censitária,Total,Total,14136417
+97,31.0,Minas Gerais,1970,População residente censitária,Total,Total,11485663
+98,31.0,Minas Gerais,1980,População residente censitária,Total,Total,13380105
+99,31.0,Minas Gerais,1991,População residente censitária,Total,Total,15743152
+100,31.0,Minas Gerais,2000,População residente censitária,Total,Total,17891494
+101,31.0,Minas Gerais,2010,População residente censitária,Total,Total,19597330
+102,31.0,Minas Gerais,2022,População residente censitária,Total,Total,20538718
+103,32.0,Espírito Santo,1970,População residente censitária,Total,Total,1599324
+104,32.0,Espírito Santo,1980,População residente censitária,Total,Total,2023338
+105,32.0,Espírito Santo,1991,População residente censitária,Total,Total,2600618
+106,32.0,Espírito Santo,2000,População residente censitária,Total,Total,3097232
+107,32.0,Espírito Santo,2010,População residente censitária,Total,Total,3514952
+108,32.0,Espírito Santo,2022,População residente censitária,Total,Total,3833486
+109,33.0,Rio de Janeiro,1970,População residente censitária,Total,Total,4742884
+110,33.0,Rio de Janeiro,1980,População residente censitária,Total,Total,11291631
+111,33.0,Rio de Janeiro,1991,População residente censitária,Total,Total,12807706
+112,33.0,Rio de Janeiro,2000,População residente censitária,Total,Total,14391282
+113,33.0,Rio de Janeiro,2010,População residente censitária,Total,Total,15989929
+114,33.0,Rio de Janeiro,2022,População residente censitária,Total,Total,16054524
+115,35.0,São Paulo,1970,População residente censitária,Total,Total,17770975
+116,35.0,São Paulo,1980,População residente censitária,Total,Total,25042074
+117,35.0,São Paulo,1991,População residente censitária,Total,Total,31588925
+118,35.0,São Paulo,2000,População residente censitária,Total,Total,37032403
+119,35.0,São Paulo,2010,População residente censitária,Total,Total,41262199
+120,35.0,São Paulo,2022,População residente censitária,Total,Total,44420459
+121,41.0,Paraná,1970,População residente censitária,Total,Total,6929821
+122,41.0,Paraná,1980,População residente censitária,Total,Total,7629849
+123,41.0,Paraná,1991,População residente censitária,Total,Total,8448713
+124,41.0,Paraná,2000,População residente censitária,Total,Total,9563458
+125,41.0,Paraná,2010,População residente censitária,Total,Total,10444526
+126,41.0,Paraná,2022,População residente censitária,Total,Total,11443208
+127,42.0,Santa Catarina,1970,População residente censitária,Total,Total,2901660
+128,42.0,Santa Catarina,1980,População residente censitária,Total,Total,3628292
+129,42.0,Santa Catarina,1991,População residente censitária,Total,Total,4541994
+130,42.0,Santa Catarina,2000,População residente censitária,Total,Total,5356360
+131,42.0,Santa Catarina,2010,População residente censitária,Total,Total,6248436
+132,42.0,Santa Catarina,2022,População residente censitária,Total,Total,7609601
+133,43.0,Rio Grande do Sul,1970,População residente censitária,Total,Total,6664841
+134,43.0,Rio Grande do Sul,1980,População residente censitária,Total,Total,7773849
+135,43.0,Rio Grande do Sul,1991,População residente censitária,Total,Total,9138670
+136,43.0,Rio Grande do Sul,2000,População residente censitária,Total,Total,10187798
+137,43.0,Rio Grande do Sul,2010,População residente censitária,Total,Total,10693929
+138,43.0,Rio Grande do Sul,2022,População residente censitária,Total,Total,10880506
+139,50.0,Mato Grosso do Sul,1970,População residente censitária,Total,Total,...
+140,50.0,Mato Grosso do Sul,1980,População residente censitária,Total,Total,1369769
+141,50.0,Mato Grosso do Sul,1991,População residente censitária,Total,Total,1780373
+142,50.0,Mato Grosso do Sul,2000,População residente censitária,Total,Total,2078001
+143,50.0,Mato Grosso do Sul,2010,População residente censitária,Total,Total,2449024
+144,50.0,Mato Grosso do Sul,2022,População residente censitária,Total,Total,2756700
+145,51.0,Mato Grosso,1970,População residente censitária,Total,Total,1597009
+146,51.0,Mato Grosso,1980,População residente censitária,Total,Total,1138918
+147,51.0,Mato Grosso,1991,População residente censitária,Total,Total,2027231
+148,51.0,Mato Grosso,2000,População residente censitária,Total,Total,2504353
+149,51.0,Mato Grosso,2010,População residente censitária,Total,Total,3035122
+150,51.0,Mato Grosso,2022,População residente censitária,Total,Total,3658813
+151,52.0,Goiás,1970,População residente censitária,Total,Total,2938029
+152,52.0,Goiás,1980,População residente censitária,Total,Total,3860174
+153,52.0,Goiás,1991,População residente censitária,Total,Total,4018903
+154,52.0,Goiás,2000,População residente censitária,Total,Total,5003228
+155,52.0,Goiás,2010,População residente censitária,Total,Total,6003788
+156,52.0,Goiás,2022,População residente censitária,Total,Total,7055228
+157,53.0,Distrito Federal,1970,População residente censitária,Total,Total,537492
+158,53.0,Distrito Federal,1980,População residente censitária,Total,Total,1176908
+159,53.0,Distrito Federal,1991,População residente censitária,Total,Total,1601094
+160,53.0,Distrito Federal,2000,População residente censitária,Total,Total,2051146
+161,53.0,Distrito Federal,2010,População residente censitária,Total,Total,2570160
+162,53.0,Distrito Federal,2022,População residente censitária,Total,Total,2817068
