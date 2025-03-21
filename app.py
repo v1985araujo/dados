@@ -58,7 +58,7 @@ with _lock:
                 x = dados['uf'],
                 width = .7,            
                 height = dados['valor'])
-    plt.title(f'População por Estado em {ano}').set_fontweight('bold')
+    #plt.title(f'População por Estado em {ano}').set_fontweight('bold')
     plt.legend(['Milhão de habitantes'], 
                 fontsize = 6, 
                 title = 'População no Brasil', 
